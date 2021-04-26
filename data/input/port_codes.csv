@@ -1,0 +1,661 @@
+﻿PortCode,City,StateCode,Country
+ALC,Alcan, AK             ,United States
+ANC,Anchorage, AK         ,United States
+BAR,Baker Aaf - Baker Island, AK,United States
+DAC,Daltons Cache, AK     ,United States
+PIZ,Dew Station Pt Lay Dew, AK,United States
+DTH,Dutch Harbor, AK      ,United States
+EGL,Eagle, AK             ,United States
+FRB,Fairbanks, AK         ,United States
+HOM,Homer, AK                        ,United States
+HYD,Hyder, AK             ,United States
+JUN,Juneau, AK            ,United States
+5KE,Ketchikan, AK,United States
+KET,Ketchikan, AK         ,United States
+MOS,Moses Point Intermediate, AK,United States
+NIK,Nikiski, AK           ,United States
+NOM,Nom, AK               ,United States
+PKC,Poker Creek, AK       ,United States
+ORI,Port Lions Spb, AK,United States
+SKA,Skagway, AK           ,United States
+SNP,St. Paul Island, AK,United States
+TKI,Tokeen, AK,United States
+WRA,Wrangell, AK          ,United States
+HSV,Madison County - Huntsville, AL,United States
+MOB,Mobile, AL            ,United States
+LIA,Little Rock, AR,United States
+ROG,Rogers Arpt, AR,United States
+DOU,Douglas, AZ           ,United States
+LUK,Lukeville, AZ         ,United States
+MAP,Mariposa         , AZ,United States
+NAC,Naco, AZ              ,United States
+NOG,Nogales, AZ           ,United States
+PHO,Phoenix, AZ           ,United States
+POR,Portal, AZ,United States
+SLU,San Luis, AZ          ,United States
+SAS,Sasabe, AZ            ,United States
+TUC,Tucson, AZ            ,United States
+YUI,Yuma, AZ               ,United States
+AND,Andrade, CA           ,United States
+BUR,Burbank, CA,United States
+CAL,Calexico, CA          ,United States
+CAO,Campo, CA              ,United States
+FRE,Fresno, CA            ,United States
+ICP,Imperial County, CA   ,United States
+LNB,Long Beach, CA         ,United States
+LOS,Los Angeles, CA       ,United States
+BFL,Meadows Field - Bakersfield, CA,United States
+OAK,Oakland, CA  ,United States
+ONT,Ontario, CA,United States
+OTM,Otay Mesa, CA          ,United States
+BLT,Pacific Hwy Station, CA,United States
+PSP,Palm Springs, CA,United States
+SAC,Sacramento, CA        ,United States
+SLS,Salinas, CA,United States
+SDP,San Diego, CA,United States
+SFR,San Francisco, CA     ,United States
+SNJ,San Jose, CA          ,United States
+SLO,San Luis Obispo, CA   ,United States
+SLI,San Luis Obispo, CA,United States
+SPC,San Pedro, CA         ,United States
+SYS,San Ysidro, CA        ,United States
+SAA,Santa Ana, CA         ,United States
+STO,Stockton, CA,United States
+TEC,Tecate, CA            ,United States
+TRV,Travis-Afb, CA        ,United States
+APA,Arapahoe County, CO,United States
+ASE,Aspen, CO,United States
+COS,Colorado Springs, CO,United States
+DEN,Denver, CO            ,United States
+DRO,La Plata - Durango, CO,United States
+BDL,Bradley International, CT,United States
+BGC,Bridgeport, CT        ,United States
+GRT,Groton, CT            ,United States
+HAR,Hartford, CT          ,United States
+NWH,New Haven, CT         ,United States
+NWL,New London, CT        ,United States
+TST,Newington Data Center Test, CT,United States
+WAS,Washington Dc         ,,United States
+DOV,Dover Afb, DE,United States
+DVD,Dover-Afb, DE         ,United States
+WLL,Wilmington, DE        ,United States
+BOC,Bocagrande, FL        ,United States
+SRQ,Bradenton - Sarasota, FL,United States
+CAN,Cape Canaveral, FL    ,United States
+DAB,Daytona Beach International, FL,United States
+FRN,Fernandina, FL        ,United States
+FTL,Fort Lauderdale, FL   ,United States
+FMY,Fort Myers, FL        ,United States
+FPF,Fort Pierce, FL       ,United States
+HUR,Hurlburt Field, FL,United States
+GNV,J R Alison Muni - Gainesville, FL,United States
+JAC,Jacksonville, FL      ,United States
+KEY,Key West, FL          ,United States
+LEE,Leesburg Municipal Airport, FL,United States
+MLB,Melbourne, FL,United States
+MIA,Miami, FL             ,United States
+APF,Naples, FL,United States
+OPF,Opa Locka, FL,United States
+ORL,Orlando, FL           ,United States
+PAN,Panama City, FL       ,United States
+PEN,Pensacola, FL         ,United States
+PCF,Port Canaveral, FL    ,United States
+PEV,Port Everglades, FL   ,United States
+PSJ,Port St Joe, FL       ,United States
+SFB,Sanford, FL           ,United States
+SGJ,St Augustine Arpt, FL,United States
+SAU,St Augustine, FL      ,United States
+FPR,St Lucie County, FL,United States
+SPE,St Petersburg, FL     ,United States
+TAM,Tampa, FL             ,United States
+WPB,West Palm Beach, FL   ,United States
+ATL,Atlanta, GA           ,United States
+BRU,Brunswick, GA         ,United States
+AGS,Bush Field - Augusta, GA,United States
+SAV,Savannah, GA          ,United States
+AGA,Agana, GU             ,United States
+HHW,Honolulu, HI          ,United States
+OGG,Kahului - Maui, HI,United States
+KOA,Keahole-Kona, HI      ,United States
+LIH,Lihue, HI             ,United States
+CID,Cedar Rapids/Iowa City, IA,United States
+DSM,Des Moines, IA,United States
+BOI,Air Term. (Gowen Fld) Boise, ID,United States
+EPI,Eastport, ID          ,United States
+IDA,Fanning Field - Idaho Falls, ID,United States
+PTL,Porthill, ID          ,United States
+SPI,Capital - Springfield, IL,United States
+CHI,Chicago, IL           ,United States
+DPA,Dupage County, IL,United States
+PIA,Greater Peoria, IL,United States
+RFD,Greater Rockford, IL,United States
+UGN,Memorial - Waukegan, IL,United States
+GAR,Gary, IN              ,United States
+HMM,Hammond, IN           ,United States
+INP,Indianapolis, IN      ,United States
+MRL,Merrillville, IN      ,United States
+SBN,South Bend, IN,United States
+ICT,Mid-Continent - Witchita, KS,United States
+LEX,Blue Grass - Lexington, KY,United States
+LOU,Louisville, KY        ,United States
+BTN,Baton Rouge, LA       ,United States
+LKC,Lake Charles, LA      ,United States
+LAK,Lake Charles, LA (BPS),United States
+MLU,Monroe, LA,United States
+MGC,Morgan City, LA       ,United States
+NOL,New Orleans, LA       ,United States
+BOS,Boston, MA            ,United States
+GLO,Gloucester, MA        ,United States
+BED,Hanscom Field - Bedford, MA,United States
+LYN,Lynden, WA            ,United States
+ADW,Andrews Afb, MD,United States
+BAL,Baltimore, MD         ,United States
+MKG,Muskegon, MD,United States
+PAX,Patuxent River, MD    ,United States
+BGM,Bangor, ME            ,United States
+BOO,Boothbay Harbor, ME   ,United States
+BWM,Bridgewater, ME       ,United States
+BCK,Buckport, ME          ,United States
+CLS,Calais, ME   ,United States
+CRB,Caribou, ME           ,United States
+COB,Coburn Gore, ME       ,United States
+EST,Eastcourt, ME         ,United States
+EPT,Eastport Municipal, ME,United States
+EPM,Eastport, ME          ,United States
+FOR,Forest City, ME       ,United States
+FTF,Fort Fairfield, ME    ,United States
+FTK,Fort Kent, ME         ,United States
+HML,Hamiin, ME            ,United States
+HTM,Houlton, ME           ,United States
+JKM,Jackman, ME           ,United States
+KAL,Kalispel, MT          ,United States
+LIM,Limestone, ME         ,United States
+LUB,Lubec, ME             ,United States
+MAD,Madawaska, ME         ,United States
+POM,Portland, ME          ,United States
+RGM,Rangeley, ME (BPS),United States
+SBR,South Brewer, ME      ,United States
+SRL,St Aurelie, ME        ,United States
+SPA,St Pampile, ME        ,United States
+VNB,Van Buren, ME         ,United States
+VCB,Vanceboro, ME         ,United States
+AGN,Algonac, MI           ,United States
+ALP,Alpena, MI            ,United States
+BCY,Bay City, MI          ,United States
+DET,Detroit, MI           ,United States
+GRP,Grand Rapids, MI,United States
+GRO,Grosse Isle, MI       ,United States
+ISL,Isle Royale, MI       ,United States
+MRC,Marine City, MI       ,United States
+MRY,Marysville, MI        ,United States
+PTK,Oakland County - Pontiac, MI,United States
+PHU,Port Huron, MI        ,United States
+RBT,Roberts Landing, MI   ,United States
+SAG,Saginaw, MI           ,United States
+SSM,Sault Ste. Marie, MI  ,United States
+SCL,St Clair, MI          ,United States
+YIP,Willow Run - Ypsilanti, MI,United States
+BAU,Baudette, MN          ,United States
+CAR,Caribou Municipal Airport, MN,United States
+GTF,Collapsed Into Int, MN,United States
+INL,Collapsed Into Int, MN,United States
+CRA,Crane Lake, MN        ,United States
+MIC,Crystal Municipal Airport, MN,United States
+DUL,Duluth, MN            ,United States
+ELY,Ely, MN               ,United States
+GPM,Grand Portage, MN     ,United States
+SVC,Grant County - Silver City, MN,United States
+INT,Intl Falls, MN      ,United States
+LAN,Lancaster, MN         ,United States
+MSP,Minn./St Paul, MN     ,United States
+LIN,Northern Svc Center, MN   ,United States
+NOY,Noyes, MN             ,United States
+PIN,Pine Creek, MN        ,United States
+48Y,Pinecreek Border Arpt, MN,United States
+RAN,Rainer, MN            ,United States
+RST,Rochester, MN,United States
+ROS,Roseau, MN            ,United States
+SPM,St Paul, MN           ,United States
+WSB,Warroad Intl, SPB,United States
+WAR,Warroad, MN           ,United States
+KAN,Kansas City, MO       ,United States
+SGF,Springfield-Branson, MO,United States
+STL,St Louis, MO          ,United States
+WHI,Whitetail, MT         ,United States
+WHM,Wild Horse, MT        ,United States
+GPT,Biloxi Regional, MS,United States
+GTR,Golden Triangle Lowndes Cnty, MS,United States
+GUL,Gulfport, MS          ,United States
+PAS,Pascagoula, MS        ,United States
+JAN,Thompson Field - Jackson, MS,United States
+BIL,Billings, MT          ,United States
+BTM,Butte, MT             ,United States
+CHF,Chief Mt, MT          ,United States
+CTB,Cut Bank Municipal, MT,United States
+CUT,Cut Bank, MT          ,United States
+DLB,Del Bonita, MT        ,United States
+EUR,Eureka, MT (BPS),United States
+BZN,Gallatin Field - Bozeman, MT,United States
+FCA,Glacier National Park, MT,United States
+GGW,Glasgow, MT           ,United States
+GRE,Great Falls, MT       ,United States
+HVR,Havre, MT             ,United States
+HEL,Helena, MT            ,United States
+LWT,Lewiston, MT          ,United States
+MGM,Morgan, MT            ,United States
+OPH,Opheim, MT            ,United States
+PIE,Piegan, MT            ,United States
+RAY,Raymond, MT           ,United States
+ROO,Roosville, MT         ,United States
+SCO,Scobey, MT            ,United States
+SWE,Sweetgtass, MT        ,United States
+TRL,Trial Creek, MT       ,United States
+TUR,Turner, MT            ,United States
+WCM,Willow Creek, MT      ,United States
+CLT,Charlotte, NC         ,United States
+FAY,Fayetteville, NC,United States
+MRH,Morehead City, NC     ,United States
+FOP,Morris Fields Aaf, NC,United States
+GSO,Piedmont Triad Intl Airport, NC,United States
+RDU,Raleigh/Durham, NC    ,United States
+SSC,Shaw Afb - Sumter, NC,United States
+WIL,Wilmington, NC        ,United States
+AMB,Ambrose, ND           ,United States
+ANT,Antler, ND            ,United States
+CRY,Carbury, ND           ,United States
+DNS,Dunseith, ND          ,United States
+FAR,Fargo, ND             ,United States
+FRT,Fortuna, ND           ,United States
+GRF,Grand Forks, ND       ,United States
+HNN,Hannah, ND            ,United States
+HNS,Hansboro, ND          ,United States
+MAI,Maida, ND             ,United States
+MND,Minot, ND             ,United States
+NEC,Neche, ND             ,United States
+NOO,Noonan, ND            ,United States
+NRG,Northgate, ND         ,United States
+PEM,Pembina, ND           ,United States
+SAR,Sarles, ND            ,United States
+SHR,Sherwood, ND          ,United States
+SJO,St John, ND           ,United States
+WAL,Walhalla, ND          ,United States
+WHO,Westhope, ND          ,United States
+WND,Williston, ND         ,United States
+OMA,Omaha, NE             ,United States
+LEB,Lebanon, NH           ,United States
+MHT,Manchester, NH,United States
+PNH,Pittsburg, NH         ,United States
+PSM,Portsmouth, NH        ,United States
+BYO,Bayonne, NJ           ,United States
+CNJ,Camden, NJ            ,United States
+HOB,Hoboken, NJ           ,United States
+JER,Jersey City, NJ       ,United States
+WRI,Mc Guire Afb - Wrightsown, NJ,United States
+MMU,Morristown, NJ,United States
+NEW,Newark/Teterboro, NJ  ,United States
+PER,Perth Amboy, NJ       ,United States
+ACY,Pomona Field - Atlantic City, NJ,United States
+ALA,Alamagordo, NM (BPS),United States
+ABQ,Albuquerque, NM       ,United States
+ANP,Antelope Wells, NM    ,United States
+CRL,Carlsbad, NM          ,United States
+COL,Columbus, NM          ,United States
+CDD,Crane Lake - St. Louis Cnty, NM,United States
+DNM,Deming, NM (BPS),United States
+LAS,Las Cruces, NM        ,United States
+LOB,Lordsburg, NM (BPS),United States
+RUI,Ruidoso, NM,United States
+STR,Santa Teresa, NM      ,United States
+RNO,Cannon Intl - Reno/Tahoe, NV,United States
+FLX,Fallon Municipal Airport, NV,United States
+LVG,Las Vegas, NV         ,United States
+REN,Reno, NV              ,United States
+ALB,Albany, NY            ,United States
+AXB,Alexandria Bay, NY    ,United States
+BUF,Buffalo, NY           ,United States
+CNH,Cannon Corners, NY,United States
+CAP,Cape Vincent, NY      ,United States
+CHM,Champlain, NY         ,United States
+CHT,Chateaugay, NY        ,United States
+CLA,Clayton, NY           ,United States
+FTC,Fort Covington, NY    ,United States
+LAG,La Guardia, NY        ,United States
+LEW,Lewiston, NY          ,United States
+MAS,Massena, NY           ,United States
+MAG,Mcguire Afb, NY       ,United States
+MOO,Moores, NY            ,United States
+MRR,Morristown, NY        ,United States
+NYC,New York, NY          ,United States
+NIA,Niagara Falls, NY     ,United States
+OGD,Ogdensburg, NY        ,United States
+OSW,Oswego, NY            ,United States
+ELM,Regional Arpt - Horsehead, NY,United States
+ROC,Rochester, NY         ,United States
+ROU,Rouses Point, NY      ,United States
+SWF,Stewart - Orange Cnty, NY,United States
+SYR,Syracuse, NY          ,United States
+THO,Thousand Island Bridge, NY,United States
+TRO,Trout River, NY       ,United States
+WAT,Watertown, NY         ,United States
+HPN,Westchester - White Plains, NY,United States
+WRB,Whirlpool Bridge, NY,United States
+YOU,Youngstown, NY        ,United States
+AKR,Akron, OH             ,United States
+ATB,Ashtabula, OH         ,United States
+CIN,Cincinnati, OH        ,United States
+CLE,Cleveland, OH         ,United States
+CLM,Columbus, OH          ,United States
+LOR,Lorain, OH            ,United States
+MBO,Marble Heads, OH      ,United States
+SDY,Sandusky, OH          ,United States
+TOL,Toledo, OH            ,United States
+OKC,Oklahoma City, OK     ,United States
+TUL,Tulsa, OK,United States
+AST,Astoria, OR           ,United States
+COO,Coos Bay, OR          ,United States
+HIO,Hillsboro, OR,United States
+MED,Medford, OR           ,United States
+NPT,Newport, OR           ,United States
+POO,Portland, OR          ,United States
+PUT,Put-In-Bay, OH        ,United States
+RDM,Roberts Fields - Redmond, OR,United States
+ERI,Erie, PA              ,United States
+MDT,Harrisburg, PA,United States
+HSB,Harrisonburg, PA      ,United States
+PHI,Philadelphia, PA      ,United States
+PIT,Pittsburg, PA         ,United States
+AGU,Aguadilla, PR         ,United States
+BQN,Borinquen - Aguadillo, PR,United States
+JCP,Culebra - Benjamin Rivera, PR,United States
+ENS,Ensenada, PR          ,United States
+FAJ,Fajardo, PR           ,United States
+HUM,Humacao, PR           ,United States
+JOB,Jobos, PR             ,United States
+MAY,Mayaguez, PR          ,United States
+PON,Ponce, PR             ,United States
+PSE,Ponce-Mercedita, PR,United States
+SAJ,San Juan, PR          ,United States
+VQS,Vieques-Arpt, PR,United States
+PRO,Providence, RI        ,United States
+PVD,Theodore Francis - Warwick, RI,United States
+CHL,Charleston, SC        ,United States
+CAE,Columbia, SC #ARPT,United States
+GEO,Georgetown, SC        ,United States
+GSP,Greenville, SC,United States
+GRR,Greer, SC,United States
+MYR,Myrtle Beach, SC,United States
+SPF,Black Hills, SPEARFISH,United States
+HON,Howes Regional Arpt - Huron, SD,United States
+SAI,Saipan, SPN           ,United States
+TYS,Mc Ghee Tyson - Alcoa, TN,United States
+MEM,Memphis, TN           ,United States
+NSV,Nashville, TN         ,United States
+TRI,Tri City Arpt, TN,United States
+ADS,Addison Airport- Addison, TX,United States
+ADT,Amistad Dam, TX       ,United States
+ANZ,Anzalduas, TX,United States
+AUS,Austin, TX            ,United States
+BEA,Beaumont, TX          ,United States
+BBP,Big Bend Park, TX (BPS),United States
+SCC,Bp Spec Coord. Ctr, TX,United States
+BTC,Bp Tactical Unit, TX   ,United States
+BOA,Bridge Of Americas, TX,United States
+BRO,Brownsville, TX       ,United States
+CRP,Corpus Christi, TX    ,United States
+DAL,Dallas, TX            ,United States
+DLR,Del Rio, TX           ,United States
+DNA,Donna, TX,United States
+EGP,Eagle Pass, TX        ,United States
+ELP,El Paso, TX           ,United States
+FAB,Fabens, TX            ,United States
+FAL,Falcon Heights, TX    ,United States
+FTH,Fort Hancock, TX      ,United States
+AFW,Fort Worth Alliance, TX,United States
+FPT,Freeport, TX          ,United States
+GAL,Galveston, TX         ,United States
+HLG,Harlingen, TX         ,United States
+HID,Hidalgo, TX           ,United States
+HOU,Houston, TX           ,United States
+SGR,Hull Field, SUGAR LAND ARPT,United States
+LLB,Juarez-Lincoln Bridge, TX,United States
+LCB,Laredo Columbia Bridge, TX,United States
+LRN,Laredo North, TX      ,United States
+LAR,Laredo, TX            ,United States
+LSE,Los Ebanos, TX        ,United States
+IND,Los Indios, TX,United States
+LOI,Los Indios, TX        ,United States
+MRS,Marfa, TX (BPS),United States
+MCA,Mcallen, TX           ,United States
+MAF,Odessa Regional, TX,United States
+PDN,Paso Del Norte,TX     ,United States
+PBB,Peace Bridge, NY      ,United States
+PHR,Pharr, TX             ,United States
+PAR,Port Arthur, TX       ,United States
+ISB,Port Isabel, TX       ,United States
+POE,Port Of El Paso, TX   ,United States
+PRE,Presidio, TX          ,United States
+PGR,Progreso, TX          ,United States
+RIO,Rio Grande City, TX   ,United States
+ROM,Roma, TX              ,United States
+SNA,San Antonio, TX       ,United States
+SNN,Sanderson, TX         ,United States
+VIB,Veteran Intl Bridge, TX,United States
+YSL,Ysleta, TX            ,United States
+CHA,Charlotte Amalie, VI  ,United States
+CHR,Christiansted, VI     ,United States
+CRU,Cruz Bay, ST JOHN,United States
+FRK,Frederiksted, VI      ,United States
+STT,St Thomas, VI         ,United States
+LGU,Cache Airport - Logan, UT,United States
+SLC,Salt Lake City, UT    ,United States
+CHO,Albemarle Charlottesville, VA,United States
+DAA,Davison Aaf - Fairfax Cnty, VA,United States
+HOP,Hopewell, VA          ,United States
+HEF,Manassas, VA #ARPT,United States
+NWN,Newport, VA           ,United States
+NOR,Norfolk, VA           ,United States
+RCM,Richmond, VA          ,United States
+ABS,Alburg Springs, VT    ,United States
+ABG,Alburg, VT            ,United States
+BEB,Beebe Plain, VT       ,United States
+BEE,Beecher Falls, VT     ,United States
+BRG,Burlington, VT        ,United States
+CNA,Canaan, VT            ,United States
+DER,Derby Line, VT (I-91) ,United States
+DLV,Derby Line, VT (RT. 5),United States
+ERC,East Richford, VT     ,United States
+HIG,Highgate Springs, VT  ,United States
+MOR,Morses Line, VT       ,United States
+NPV,Newport, VT           ,United States
+NRT,North Troy, VT        ,United States
+NRN,Norton, VT            ,United States
+PIV,Pinnacle Road, VT     ,United States
+RIF,Richfort, VT          ,United States
+STA,St Albans, VT         ,United States
+SWB,Swanton, VT (BP - SECTOR HQ),United States
+WBE,West Berkshire, VT    ,United States
+ABE,Aberdeen, WA          ,United States
+ANA,Anacortes, WA         ,United States
+BEL,Bellingham, WA        ,United States
+BLI,Bellingham, WASHINGTON #INTL,United States
+BLA,Blaine, WA            ,United States
+BWA,Boundary, WA          ,United States
+CUR,Curlew, WA (BPS),United States
+DVL,Danville, WA          ,United States
+EVE,Everett, WA           ,United States
+FER,Ferry, WA             ,United States
+FRI,Friday Harbor, WA     ,United States
+FWA,Frontier, WA          ,United States
+KLM,Kalama, WA            ,United States
+LAU,Laurier, WA           ,United States
+LON,Longview, WA          ,United States
+MET,Metaline Falls, WA    ,United States
+MWH,Moses Lake Grant County Arpt, WA,United States
+NEA,Neah Bay, WA          ,United States
+NIG,Nighthawk, WA         ,United States
+OLY,Olympia, WA           ,United States
+ORO,Oroville, WA          ,United States
+PWB,Pasco, WA             ,United States
+PIR,Point Roberts, WA     ,United States
+PNG,Port Angeles, WA      ,United States
+PTO,Port Townsend, WA     ,United States
+SEA,Seattle, WA           ,United States
+SPO,Spokane, WA           ,United States
+SUM,Sumas, WA             ,United States
+TAC,Tacoma, WA            ,United States
+PSC,Tri-Cities - Pasco, WA,United States
+VAN,Vancouver, WA         ,United States
+AGM,Algoma, WI            ,United States
+BAY,Bayfield, WI          ,United States
+GRB,Green Bay, WI         ,United States
+MNW,Manitowoc, WI         ,United States
+MIL,Milwaukee, WI         ,United States
+MSN,Truax Field - Dane County, WI,United States
+CHS,Charleston, WV        ,United States
+CLK,Clarksburg, WV        ,United States
+BLF,Mercer County, WV,United States
+CSP,Casper, WY            ,United States
+XXX,Not Reported/Unknown   ,,
+888,Unidentifed Air / Seaport,,
+UNK,Unknown Poe           ,,
+CLG,Calgary,, Canada       
+EDA,Edmonton,, Canada      
+YHC,Hakai Pass,, Canada
+HAL,Halifax,, Ns
+MON,Montreal,, Canada      
+OTT,Ottawa,, Canada        
+YXE,Saskatoon,, Canada
+TOR,Toronto,, Canada       
+VCV,Vancouver,, Canada     
+VIC,Victoria,, Canada      
+WIN,Winnipeg,, Canada      
+AMS,Amsterdam-Schiphol,, Netherlands
+ARB,Aruba,, Neth Antilles  
+BAN,Bankok,, Thailand      
+BEI,Beica #Arpt,, Ethiopia
+PEK,Beijing Capital Intl,, Prc
+BDA,Kindley Field,, Bermuda
+BOG,Bogota,, El Dorado Arpt
+EZE,Buenos Aires,, Ministro Pist
+CUN,Cancun,, Mexico
+CRQ,Caravelas,, Ba Arpt
+MVD,Carrasco,, Uruguay
+DUB,Dublin,, Ireland       
+FOU,Fougamou #Arpt,, Gabon
+FBA,Freeport,, Bahamas      
+MTY,Gen M. Escobedo,, Monterrey
+HMO,Gen Pesqueira Garcia,, Mx
+GCM,Grand Cayman,, Cayman Island
+GDL,Guadalajara,, Miguel Hidal
+HAM,Hamilton,, Bermuda     
+ICN,Inchon,, Seoul Korea
+IWA,Invalid - Iwakuni,, Japan
+CND,Kogalniceanu,, Romania
+LAH,Labuha Arpt,, Indonesia
+DUR,Louis Botha,, South Africa
+MAL,Mangole Arpt,, Indonesia
+MDE,Medellin,, Colombia
+MEX,Juarez Intl,, Mexico City
+LHR,Middlesex,, England
+NBO,Nairobi,, Kenya        
+NAS,Nassau,, Bahamas       
+NCA,North Caicos,, Turk & Caiman
+PTY,Omar Torrijos,, Panama
+SPV,Papua,, New Guinea
+UIO,Quito (Mariscal Sucr),, Ecuador
+RIT,Rome,, Italy           
+SNO,Sakon Nakhon #Arpt,, Thailand
+SLP,San Luis Potosi #Arpt,, Mexico
+SAN,San Salvador,, El Salvador
+SRO,Santana Ramos #Arpt,, Colombia
+GRU,Guarulhos Intl,, Sao Paulo
+SHA,Shannon,, Ireland      
+HIL,Shillavo,, Ethiopia
+TOK,Torokina #Arpt,, Papua
+VER,Veracruz,, Mexico
+LGW,West Sussex,, England  
+ZZZ,Mexico Land (Banco De Mexico) ,,
+CHN,No Port Code (Chn),,
+CNC,Cannon Corners, NY,United States
+MAA,Abu Dhabi,,
+AG0,Magnolia, AR,United States
+BHM,Bar Harbor, ME,United States
+BHX,Birmingham, AL,United States
+CAK,Akron, OH,United States
+FOK,Suffolk County, NY,United States
+LND,Lander, WY,United States
+MAR,Marfa, TX,United States
+MLI,Moline, IL,United States
+RIV,Riverside, CA,United States
+RME,Rome, NY,United States
+VNY,Van Nuys, CA,United States
+YUM,Yuma, AZ,United States
+FRG,Collapsed (Fok) 06/15,,
+HRL,Collapsed (Hlg) 06/15,,
+ISP,Collapsed (Fok) 06/15,,
+JSJ,Collapsed (Saj) 06/15,,
+BUS,Collapsed (Buf) 06/15,,
+IAG,Collapsed (Nia) 06/15,,
+PHN,Collapsed (Phu) 06/15,,
+STN,Collapsed (Str) 06/15,,
+VMB,Collapsed (Vnb) 06/15,,
+T01,Collapsed (Sea) 06/15,,
+PHF,No Port Code (Phf),,
+DRV,No Port Code (Drv),,
+FTB,No Port Code (Ftb),,
+GAC,No Port Code (Gac),,
+GMT,No Port Code (Gmt),,
+JFA,No Port Code (Jfa),,
+JMZ,No Port Code (Jmz),,
+NC8,No Port Code (Nc8),,
+NYL,No Port Code (Nyl),,
+OAI,No Port Code (Oai),,
+PCW,No Port Code (Pcw),,
+WA5,No Port Code (Was),,
+WTR,No Port Code (Wtr),,
+X96,No Port Code (X96),,
+XNA,No Port Code (Xna),,
+YGF,No Port Code (Ygf),,
+5T6,No Port Code (5T6),,
+60,No Port Code (60),,
+SP0,No Port Code (Sp0),,
+W55,No Port Code (W55),,
+X44,No Port Code (X44),,
+AUH,No Port Code (Auh),,
+RYY,No Port Code (Ryy),,
+SUS,No Port Code (Sus),,
+74S,No Port Code (74S),,
+ATW,No Port Code (Atw),,
+CPX,No Port Code (Cpx),,
+MTH,No Port Code (Mth),,
+PFN,No Port Code (Pfn),,
+SCH,No Port Code (Sch),,
+ASI,No Port Code (Asi),,
+BKF,No Port Code (Bkf),,
+DAY,No Port Code (Day),,
+Y62,No Port Code (Y62),,
+AG,No Port Code (Ag),,
+BCM,No Port Code (Bcm),,
+DEC,No Port Code (Dec),,
+PLB,No Port Code (Plb),,
+CXO,No Port Code (Cxo),,
+JBQ,No Port Code (Jbq),,
+JIG,No Port Code (Jig),,
+OGS,No Port Code (Ogs),,
+TIW,No Port Code (Tiw),,
+OTS,No Port Code (Ots),,
+AMT,No Port Code (Amt),,
+EGE,No Port Code (Ege),,
+GPI,No Port Code (Gpi),,
+NGL,No Port Code (Ngl),,
+OLM,No Port Code (Olm),,
+.GA,No Port Code (.Ga),,
+CLX,No Port Code (Clx),,
+CP ,No Port Code (Cp),,
+FSC,No Port Code (Fsc),,
+NK ,No Port Code (Nk),,
+ADU ,No Port Code (Adu),,
+AKT ,No Port Code (Akt),,
+LIT ,No Port Code (Lit),,
+A2A ,No Port Code (A2A),,
+OSN ,No Port Code (Osn),,
