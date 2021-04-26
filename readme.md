@@ -150,6 +150,47 @@ Job can run once in a day to load all the immigration, any change in temperature
 3. The database needed to be accessed by 100+ people.
     - Database access for all 100+ users can be given in redshift by creating different users and providing different permissions so that each user activity can be tracked in the redshift, providing a common user access to everyone will be harmful to track the activities.
 
+# Project Execution
+
+#### Executing local ETL scripts
+Copy the Temperature Data and sas_data folder into data/input folder and run the individual ETL files from local
+
+#### Executing Airflow pipeline script
+In order to execute the pipeline script (capstone_project_data_pipeline.py) from Airflow follow the below steps
+
+1. Download temperature (GlobalLandTemperaturesByCity.csv) data from [source](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data) and copy it to the project data/input folder
+
+2. Download sas_data in parquet format and copy the sas_data folder to the project data/input folder.
+
+3. Copy the entire input folder into the S3 location and update all ETL (immigration_etl.py, airport_etl.py, temperature_etl.py, demographics_etl.py) files with the S3 input and output location path
+
+4. Create EMR and redshift instance manually in region where the data files are available in S3
+
+5. Create the following connections in airflow with Spark EMR and Redshift details
+    1. emr_ssh_connection
+             Conn Id: emr_ssh_connection
+             Conn Type: SSH
+             Host: EMR HOST address <eg: ec2-xx-xxx-xx-xxx.compute-1.amazonaws.com>
+             username: xxxxx <eg. hadoop>
+             password: <password for EMR>
+             Extra: {
+                "key_file": "spark-emr-cluster.pem",
+                "timeout": "10",
+                "compress": "false",
+                "no_host_key_check": "true",
+                "allow_host_key_change": "false"
+            }
+    2. redshift
+            Conn Id: redshift
+            Conn Type: Postgres
+            Host: Resdhisft Host Address<eg. redshift-cluster-1.xxxxxxx.us-east-1.redshift.amazonaws.com>
+            Schema: <Schema Name>
+            Login: <Login User ID>
+            Password: <Redshift Password>
+            Port: 5439
+6. Run the pipeline named capstone_project in airflow 
+
+
 
 
 
