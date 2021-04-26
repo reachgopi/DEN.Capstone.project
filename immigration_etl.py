@@ -8,6 +8,9 @@ from pyspark.sql.window import Window
 from datetime import datetime as dt
 
 def create_spark_session():
+    '''
+        creates spark session
+    '''
     spark = SparkSession \
         .builder \
         .config("spark.jars.packages", "org.apache.hadoop:hadoop-aws:3.2.0") \
@@ -20,6 +23,14 @@ def create_spark_session():
 
 
 def process_immigration_data(spark, input_data, output_data):
+    '''
+        process immigration data and write the processed data into multiple (immig_fact, visa_type_dim, travel_mode_dim, time_dim) parquet files
+
+        arguments:
+        spark -- spark session
+        input_data -- input data folder path
+        output_data -- output data folder path  
+    '''
     print("processing immigration data -->>>>")
     # get filepath to immigration data file
     immig_data = input_data + "sas_data/*.parquet"
@@ -155,6 +166,9 @@ def process_immigration_data(spark, input_data, output_data):
         .parquet(time_dim_out)
 
 def main():
+    '''
+        main method gets invoked when the immigration_etl.py is executed
+    '''
     config = configparser.ConfigParser()
     config.read('dl.cfg')
 

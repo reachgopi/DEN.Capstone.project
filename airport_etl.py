@@ -8,6 +8,9 @@ from pyspark.sql.window import Window
 from datetime import datetime as dt
 
 def create_spark_session():
+    '''
+        creates spark session
+    '''
     spark = SparkSession \
         .builder \
         .config("spark.jars.packages", "org.apache.hadoop:hadoop-aws:3.2.0") \
@@ -19,6 +22,14 @@ def create_spark_session():
     return spark
 
 def process_airport_data(spark, input_data, output_data):
+    '''
+        process airport data and write the processed airport_dim into parquet files
+
+        arguments:
+        spark -- spark session
+        input_data -- input data folder path
+        output_data -- output data folder path 
+    '''
     print("processing airport data -->>>>")
     # get filepath for the airport data file
     input_file_path = input_data + "airport-codes_csv_less.csv"
@@ -55,6 +66,9 @@ def process_airport_data(spark, input_data, output_data):
         .parquet(output_file_path)
 
 def main():
+    '''
+        main method gets invoked when the airport_etl.py is executed
+    '''
     config = configparser.ConfigParser()
     config.read('dl.cfg')
 

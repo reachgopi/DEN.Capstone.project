@@ -13,12 +13,23 @@ class DataQualityOperator(BaseOperator):
                  target_table,
                  validate_column,
                  *args, **kwargs):
+        '''
+            DataQualityOperator init constructor
+
+            arguments:
+                redshift_conn_id -- redshift connection id 
+                target_table -- target table where data validation need to happen
+                validate_column - column in which validation need to be applied
+        '''
         super(DataQualityOperator, self).__init__(*args, **kwargs)
         self.redshift_connection_id = redshift_connection_id
         self.target_table = target_table
         self.validate_column = validate_column 
 
     def execute(self, context):
+        '''
+            execute gets called when DataQualityOperator is invoked
+        '''
         self.log.info('Inside DataQualityOperator --->>>>')
         redshift = PostgresHook(self.redshift_connection_id)
         

@@ -21,6 +21,16 @@ class LoadParquetToRedshift(BaseOperator):
                  s3_bucket="",
                  s3_key="",
                  *args, **kwargs):
+        '''
+            LoadParquetToRedshift init constructor
+
+            arguments:
+                redshift_conn_id -- redshift connection id 
+                aws_credentials_id -- aws credential id
+                table - parquet file data will be loaded in the given table
+                s3_bucket - s3 bucket name where parquet files available
+                s3_key - path where parquet files available
+        '''
         super(LoadParquetToRedshift, self).__init__(*args, **kwargs)
         self.table = table
         self.redshift_conn_id = redshift_conn_id
@@ -29,6 +39,9 @@ class LoadParquetToRedshift(BaseOperator):
         self.aws_credentials_id = aws_credentials_id
     
     def execute(self, context):
+        '''
+            execute gets called when LoadParquetToRedshift is invoked
+        '''
         aws_hook = AwsHook(self.aws_credentials_id)
         credentials = aws_hook.get_credentials()
         redshift = PostgresHook(self.redshift_conn_id)
